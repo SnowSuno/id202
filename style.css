@@ -57,13 +57,15 @@ p {
     font-size: 120px;
 }
 
-#box {
-    margin-left: 5px;
+#lang {
     position: absolute;
-    font-size: 90px;
-    transform: translateY(-120px);
-}
+    width: auto;
 
-span {
-    font-size: 40px;
+    background-color: #efefef;
+    /*height: 20px;*/
+    color: #5d5d5d;
+    padding: 5px 10px;
+    top: 210px;
+    right: 18px;
+    font-size: 15px;
 }
